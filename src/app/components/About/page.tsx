@@ -12,7 +12,7 @@ import style from "./custom.module.css"
             
             <Image src={pic} alt="Responsive image" className={style.img}></Image>
             <p className={style.p}>About Me</p>
-            <h1 className={style.h1}>Hello! My name is Muhammad Yaseen and i am from karachi, pakistan professional Developer Engineering Technical skills HTML CSS JAVASCRIPT TYPESCRIPT NEXTJS TAILWIND CSS Education Intermediate Engineering and 3 years CIT diploma . </h1>
+            <h1 className={style.h1}>Hello My name is Muhammad Yaseen and i am from karachi pakistan professional Developer Engineering Technical skills HTML CSS JAVASCRIPT TYPESCRIPT NEXTJS TAILWIND CSS Education Intermediate Engineering and 3 years CIT diploma . </h1>
 
 
             
