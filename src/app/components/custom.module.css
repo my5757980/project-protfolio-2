@@ -1,0 +1,70 @@
+.section{
+    background-color: black;
+    
+    
+}
+
+.portfolio{
+      
+      font-size: 50px;
+      color:crimson;
+      font-style:oblique;
+      font-weight: bold;
+      
+       
+      
+    
+    
+      
+}
+
+.ul{
+       
+       display:flex;
+       gap: 40px;
+       margin-left: 500px;
+       
+       
+    
+       
+}
+
+.Home{
+    color:white;
+
+}
+  
+
+.About{
+    color:white;
+}
+
+.Contact{
+    color:white;
+}
+
+.div{
+    
+}
+
+.nav{
+    
+     
+}
+
+.Home:hover{
+    color:gray;
+    text-decoration: underline;
+    
+}
+
+.About:hover{
+    color:gray;
+    text-decoration: underline;
+}
+
+.Contact:hover{
+    color:gray;
+    text-decoration: underline;
+}
+

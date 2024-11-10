@@ -1,0 +1,45 @@
+.p{
+    font-size: 30px;
+    color:red;
+    font-weight: bold;
+    
+    
+    
+}
+
+.p1{
+    font-size:30px;
+    color:darkslategray;
+    color:white;
+    font-weight: bold;
+    
+}
+
+.img{
+    width:450px;
+    float:right;
+    height:450px;
+    
+
+    
+    
+}
+
+.div2{
+    padding: 120px;
+    background-color:black;
+    
+    
+}
+
+.h1{
+    color:white;
+    font-size:30px;
+    
+}
+
+
+.h5{
+    color:white;
+    font-size: 15px;
+}
